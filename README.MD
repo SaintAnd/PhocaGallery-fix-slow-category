@@ -7,6 +7,7 @@
 # Phoca Gallery
 
 
+Добавлен фикс-медленного отображения категорий в админке в файл administrator/components/com_phocagallery/models/phocagallerycs.php
 
 Phoca Gallery is an efficient image gallery extension for Joomla! CMS.
 
